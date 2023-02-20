@@ -24,11 +24,8 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 Лабораторная работа 0: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR0.pdf
 
 ### Дедлайн
-4.03.2023
+Лабораторная работа 0: 4.03.2023  
 
 ### Материалы лекций
-
-### 
-
 
 ### Полезные материалы
