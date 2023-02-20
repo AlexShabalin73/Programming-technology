@@ -29,3 +29,4 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 ### Материалы лекций
 
 ### Полезные материалы
+Vector String https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/vector%20string.pdf  
