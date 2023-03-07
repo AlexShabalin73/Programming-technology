@@ -22,11 +22,14 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 
 ### Лабораторные работы  
 Лабораторная работа 0: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR0.pdf
+Лабораторная работа 1: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR1.pdf  
 
 ### Дедлайн
 Лабораторная работа 0: 10.03.2023  
+Лабораторная работа 1: 25.03.2023  
 
 ### Материалы лекций
 
 ### Полезные материалы
 Vector String https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/vector%20string.pdf  
+Map Set https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20map%2C%20set.pdf  
