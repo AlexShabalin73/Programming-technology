@@ -33,3 +33,5 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 ### Полезные материалы
 Vector String https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/vector%20string.pdf  
 Map Set https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%20map%2C%20set.pdf  
+<a href = "https://github.com/AlexShabalin73/Programming-technology/tree/main/2023/Theory%2B/map%2C%20%D0%B1%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%2C%20%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE"> Map, бинарное дерево, красно-черное дерево  
+<a href = "https://github.com/AlexShabalin73/Programming-technology/tree/main/2023/Theory%2B/unordered%20map%2C%20%D1%85%D1%8D%D1%88%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0"> unordered map, хэш таблица</a>   
