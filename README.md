@@ -24,11 +24,13 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 Лабораторная работа 0: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR0.pdf
 Лабораторная работа 1: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR1.pdf  
 Лабораторная работа 2: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR2.pdf  
+Лабораторная работа 3: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR3.pdf  
 
 ### Дедлайн
 Лабораторная работа 0: 10.03.2023  
 Лабораторная работа 1: 25.03.2023  
-Лабораторная работа 2: 5.04.2023  
+Лабораторная работа 2: 14.04.2023  
+Лабораторная работа 3: 28.04.2023  
 
 ### Материалы лекций
 
