@@ -25,12 +25,19 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 Лабораторная работа 1: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR1.pdf  
 Лабораторная работа 2: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR2.pdf  
 Лабораторная работа 3: https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/LR/LR3.pdf  
+Лабораторная работа 4: https://github.com/AlexShabalin73/Programming-technology/tree/main/2023/LR/LR4   
 
 ### Дедлайн
 Лабораторная работа 0: 10.03.2023  
 Лабораторная работа 1: 25.03.2023  
 Лабораторная работа 2: 14.04.2023  
 Лабораторная работа 3: 5.05.2023  
+Лабораторная работа 4: 19.05.2023  
+
+### Амнистия  
+Можно сдать одну работу на неделе с 22.05 по 26.05  
+
+
 
 ### Материалы лекций
 <a href = "https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/Unit%20test.pdf">Юнит-тестирование</a>  
