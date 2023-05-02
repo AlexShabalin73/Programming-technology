@@ -33,6 +33,7 @@ https://docs.google.com/spreadsheets/d/11P8a03LdD_4CWbD43lX3_b5Sio6Pjac_z-jvZdSS
 Лабораторная работа 3: 5.05.2023  
 
 ### Материалы лекций
+<a href = "https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/Unit%20test.pdf">Юнит-тестирование</a>  
 
 ### Полезные материалы
 <a href = "https://github.com/AlexShabalin73/Programming-technology/blob/main/2023/Theory/vector%20string.pdf"> Vector String </a>   
