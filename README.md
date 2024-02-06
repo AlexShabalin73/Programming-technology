@@ -24,10 +24,10 @@
 | 6       |                       |                             |                        |                             |                        |
 | 7       |                       |                             |                        |                             |                        |
 
-
-### Журнал:  
-https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
-
+### Темы лекций:  
+13.02.2024 Контейнеры. Vector. Map. Set
+20.02.2024 Введение в структуры. Итераторы, алгоритмы, контейнеры  
+  
 ### Лабораторные работы  
 #### Пилот: 
 Каждая задача стоит свой балл. Для получения зачета необходимо набрать порог. (Значения порога чуть позже)  
@@ -39,13 +39,13 @@ https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83
 #### База:  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR0.pdf>Лабораторная работа 0 </a>  
 
-
 ### Дедлайн
 LR0: 22.02.2024  
 
-### Амнистия  
- 
+### Журнал:  
+https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
 
+### Амнистия  
 
 
 ### Материалы лекций
