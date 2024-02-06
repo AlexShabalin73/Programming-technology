@@ -32,6 +32,8 @@
 https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
 
 ### Лабораторные работы  
+Пилот:
+https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR0.pdf  
 
 
 ### Дедлайн
