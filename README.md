@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83
 
 ### Лабораторные работы  
 Пилот:  
-ЛР0 https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR0.pdf  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR0.pdf>Лабораторная работа 0 </a>
   
 Иностранцы:  
 ЛР0  https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%98%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D1%8B/LR0.pdf  
