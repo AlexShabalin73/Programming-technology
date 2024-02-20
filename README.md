@@ -44,7 +44,7 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR0.pdf>Лабораторная работа 0 </a>  
 
 ### Дедлайн Пилот  
-LR0: 22.02.2024 
+LR0: 22.02.2024  
 LR1: 1.03.2024  
 
 ### Журнал:  
