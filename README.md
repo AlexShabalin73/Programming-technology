@@ -39,13 +39,19 @@
   
 #### Иностранцы:  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%98%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D1%8B/LR0.pdf>Лабораторная работа 0 </a>    
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR1.pdf>Лабораторная работа 1 </a>  
    
 #### База:  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR0.pdf>Лабораторная работа 0 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR1.pdf>Лабораторная работа 1 </a>  
 
 ### Дедлайн Пилот  
 LR0: 22.02.2024  
 LR1: 1.03.2024  
+
+### Дедлайн База Иностранцы  
+LR0: 22.02.2024  
+LR1: 15.03.2024  
 
 ### Журнал:  
 https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
