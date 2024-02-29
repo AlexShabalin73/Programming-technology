@@ -36,6 +36,7 @@
 Каждая задача стоит свой балл. Для получения зачета необходимо набрать порог. (Значения порога чуть позже)  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR0.pdf>Лабораторная работа 0 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR1.pdf>Лабораторная работа 1 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR2.pdf>Лабораторная работа 2 </a>  
   
 #### Иностранцы:  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%98%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D1%8B/LR0.pdf>Лабораторная работа 0 </a>    
@@ -48,6 +49,7 @@
 ### Дедлайн Пилот  
 LR0: 22.02.2024  
 LR1: 1.03.2024  
+LR2: 12.03.2024  
 
 ### Дедлайн База Иностранцы  
 LR0: 22.02.2024  
