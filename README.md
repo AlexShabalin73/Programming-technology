@@ -71,7 +71,8 @@ https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83
 ### Амнистия  
 
 
-### Материалы лекций
+### Материалы лекций  
+https://github.com/AlexShabalin73/Programming-technology/tree/main/2024/Theory  
  
 
 ### Полезные материалы
