@@ -58,12 +58,12 @@
 LR0: 22.02.2024  
 LR1: 1.03.2024  
 LR2: 12.03.2024  
-LR3: 9.04.2024  
+LR3: 12.04.2024  
 
 ### Дедлайн База Иностранцы  
 LR0: 22.02.2024  
 LR1: 15.03.2024  
-LR2: 05.04.2024  
+LR2: 12.04.2024  
 
 ### Журнал:  
 https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
