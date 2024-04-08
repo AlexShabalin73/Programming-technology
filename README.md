@@ -41,6 +41,9 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR1.pdf>Лабораторная работа 1 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR2.pdf>Лабораторная работа 2 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR3.pdf>Лабораторная работа 3 </a>  
+Ознакомиться перед ЛР4:
+https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/Theory/Binary%20search.md  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR4.pdf>Лабораторная работа 4 </a>  
 
   
 #### Иностранцы:  
@@ -59,6 +62,7 @@ LR0: 22.02.2024
 LR1: 1.03.2024  
 LR2: 12.03.2024  
 LR3: 12.04.2024  
+LR4: 23.04.2024  
 
 ### Дедлайн База Иностранцы  
 LR0: 22.02.2024  
