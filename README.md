@@ -45,6 +45,7 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/Theory/Binary%20search.md> Бинарный поиск </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR4.pdf>Лабораторная работа 4 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/tree/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR5>Лабораторная работа 5 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR6.pdf>Лабораторная работа 6 </a>  
 
 
   
@@ -53,6 +54,8 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR1.pdf>Лабораторная работа 1 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR2.pdf>Лабораторная работа 2 </a>   
 <a href = https://github.com/AlexShabalin73/Programming-technology/tree/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR5>Лабораторная работа 3 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR4.pdf>Лабораторная работа 4 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR5.pdf>Лабораторная работа 5 </a>  
 
    
 #### База:  
@@ -60,6 +63,8 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR1.pdf>Лабораторная работа 1 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR2.pdf>Лабораторная работа 2 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/tree/main/2024/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82/LR5>Лабораторная работа 3 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR4.pdf>Лабораторная работа 4 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2024/%D0%91%D0%B0%D0%B7%D0%B0/LR5.pdf>Лабораторная работа 5 </a>  
 
 ### Дедлайн Пилот  
 LR0: 22.02.2024  
@@ -68,12 +73,15 @@ LR2: 12.03.2024
 LR3: 12.04.2024  
 LR4: 23.04.2024  
 LR5: 10.05.2024  
+LR6: 5.06.2024   
 
 ### Дедлайн База Иностранцы  
 LR0: 22.02.2024  
 LR1: 15.03.2024  
 LR2: 12.04.2024  
 LR3: 10.05.2024  
+LR4: 5.06.2024   
+LR5: 5.06.2024 
 
 ### Журнал:  
 https://docs.google.com/spreadsheets/d/1kyADfxWVgkDm5RshcIocsA91ArPG0QoL40XysC83eB8/edit?usp=sharing  
