@@ -32,12 +32,14 @@
 ### Лабораторные работы При, МОАИС  
 Каждая задача стоит свой балл. Для получения зачета необходимо набрать порог. (Значения порога чуть позже)  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR0.pdf>Лабораторная работа 0 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR1.pdf>Лабораторная работа 1 </a>  
 
 ### ИС  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%98%D0%A1/LR1.pdf>Лабораторная работа 1 </a>  
   
 ### Дедлайн ПРИ, МОАИС  
 LR0: 25.02.20245  
+LR1: 14.03.2025  
 ### Дедлайн ИС  
 LR0: 05.03.2025  
 
