@@ -34,8 +34,11 @@
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR0.pdf>Лабораторная работа 0 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR1.pdf>Лабораторная работа 1 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR2.pdf>Лабораторная работа 2 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR3.pdf>Лабораторная работа 3 </a>  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%9F%D1%80%D0%B8%2C%20%D0%9C%D0%BE%D0%90%D0%98%D0%A1/LR4.pdf>Лабораторная работа 4 </a>  
 
 ### ИС  
+<a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%98%D0%A1/LR0.pdf>Лабораторная работа 0 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%98%D0%A1/LR1.pdf>Лабораторная работа 1 </a>  
 <a href = https://github.com/AlexShabalin73/Programming-technology/blob/main/2025/%D0%98%D0%A1/LR2.pdf>Лабораторная работа 2 </a>  
   
@@ -43,9 +46,13 @@
 LR0: 25.02.20245  
 LR1: 14.03.2025  
 LR2: 31.03.2025  
+LR3: 7.05.2025  
+LR4: 18.04.2025  
 ### Дедлайн ИС  
-LR1: 05.03.2025  
-LR2: 31.03.2025  
+LR0: 05.03.2025  
+LR1: 31.03.2025  
+LR2: 18.04.2025  
+
 
 
 ### Журнал:  
