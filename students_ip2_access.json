@@ -1,0 +1,260 @@
+{
+  "course_id": "ip2",
+  "course_title": "Информатика и программирование 2",
+  "generated_at": "2026-02-16T15:57:12",
+  "password_note": "Пароль для входа: последние 4 цифры номера зачётной книжки.",
+  "students": [
+    {
+      "full_name": "Алиев Тамерлан Ибрагимович",
+      "group": "МОАИС-О-25/1",
+      "login": "AlievTI",
+      "login_generated": "AlievTI",
+      "variant": 1
+    },
+    {
+      "full_name": "Антонов Кирилл Андреевич",
+      "group": "МОАИС-О-25/1",
+      "login": "AntonovKA",
+      "login_generated": "AntonovKA",
+      "variant": 2
+    },
+    {
+      "full_name": "Борисов Артём Юрьевич",
+      "group": "МОАИС-О-25/1",
+      "login": "BorisovAY",
+      "login_generated": "BorisovAY",
+      "variant": 3
+    },
+    {
+      "full_name": "Вижиченко Александр Алексеевич",
+      "group": "МОАИС-О-25/1",
+      "login": "VizhichenkoAA",
+      "login_generated": "VizhichenkoAA",
+      "variant": 4
+    },
+    {
+      "full_name": "Григорьев Денис Сергеевич",
+      "group": "МОАИС-О-25/1",
+      "login": "GrigorevDS",
+      "login_generated": "GrigorevDS",
+      "variant": 5
+    },
+    {
+      "full_name": "Ермаченкова Мария Евгеньевна",
+      "group": "МОАИС-О-25/1",
+      "login": "ErmachenkovaME",
+      "login_generated": "ErmachenkovaME",
+      "variant": 6
+    },
+    {
+      "full_name": "Ефимов Никита Евгеньевич",
+      "group": "МОАИС-О-25/1",
+      "login": "EfimovNE",
+      "login_generated": "EfimovNE",
+      "variant": 7
+    },
+    {
+      "full_name": "Земскова Марина Андреевна",
+      "group": "МОАИС-О-25/1",
+      "login": "ZemskovaMA",
+      "login_generated": "ZemskovaMA",
+      "variant": 8
+    },
+    {
+      "full_name": "Казеев Александр Сергеевич",
+      "group": "МОАИС-О-25/1",
+      "login": "KazeevAS",
+      "login_generated": "KazeevAS",
+      "variant": 9
+    },
+    {
+      "full_name": "Камалова Елизавета Константиновна",
+      "group": "МОАИС-О-25/1",
+      "login": "KamalovaEK",
+      "login_generated": "KamalovaEK",
+      "variant": 10
+    },
+    {
+      "full_name": "Капсулова Мария Алексеевна",
+      "group": "МОАИС-О-25/1",
+      "login": "KapsulovaMA",
+      "login_generated": "KapsulovaMA",
+      "variant": 11
+    },
+    {
+      "full_name": "Кононова Юлия Дмитриевна",
+      "group": "МОАИС-О-25/1",
+      "login": "KononovaYD",
+      "login_generated": "KononovaYD",
+      "variant": 12
+    },
+    {
+      "full_name": "Левин Серафим Александрович",
+      "group": "МОАИС-О-25/1",
+      "login": "LevinSA",
+      "login_generated": "LevinSA",
+      "variant": 13
+    },
+    {
+      "full_name": "Марков Андрей Евгеньевич",
+      "group": "МОАИС-О-25/1",
+      "login": "MarkovAE",
+      "login_generated": "MarkovAE",
+      "variant": 14
+    },
+    {
+      "full_name": "Милохов Антон Андреевич",
+      "group": "МОАИС-О-25/1",
+      "login": "MilohovAA",
+      "login_generated": "MilohovAA",
+      "variant": 15
+    },
+    {
+      "full_name": "Орлов Герман Николаевич",
+      "group": "МОАИС-О-25/1",
+      "login": "OrlovGN",
+      "login_generated": "OrlovGN",
+      "variant": 16
+    },
+    {
+      "full_name": "Паймушкин Александр Сергеевич",
+      "group": "МОАИС-О-25/1",
+      "login": "PaymushkinAS",
+      "login_generated": "PaymushkinAS",
+      "variant": 17
+    },
+    {
+      "full_name": "Порицкий Кирилл Викторович",
+      "group": "МОАИС-О-25/1",
+      "login": "PoritskiyKV",
+      "login_generated": "PoritskiyKV",
+      "variant": 18
+    },
+    {
+      "full_name": "Репина Лия Дмитриевна",
+      "group": "МОАИС-О-25/1",
+      "login": "RepinaLD",
+      "login_generated": "RepinaLD",
+      "variant": 19
+    },
+    {
+      "full_name": "Саланова Виктория Максимовна",
+      "group": "МОАИС-О-25/1",
+      "login": "SalanovaVM",
+      "login_generated": "SalanovaVM",
+      "variant": 20
+    },
+    {
+      "full_name": "Сидорченко Кирилл Рудольфович",
+      "group": "МОАИС-О-25/1",
+      "login": "SidorchenkoKR",
+      "login_generated": "SidorchenkoKR",
+      "variant": 21
+    },
+    {
+      "full_name": "Яркин Ярослав Михайлович",
+      "group": "МОАИС-О-25/1",
+      "login": "YarkinYM",
+      "login_generated": "YarkinYM",
+      "variant": 22
+    },
+    {
+      "full_name": "Балакин Ярослав Вячеславович",
+      "group": "ПРИ-О-25/1",
+      "login": "BalakinYV",
+      "login_generated": "BalakinYV",
+      "variant": 1
+    },
+    {
+      "full_name": "Дмитриченко Игорь Дмитриевич",
+      "group": "ПРИ-О-25/1",
+      "login": "DmitrichenkoID",
+      "login_generated": "DmitrichenkoID",
+      "variant": 2
+    },
+    {
+      "full_name": "Ермолаев Егор Александрович",
+      "group": "ПРИ-О-25/1",
+      "login": "ErmolaevEA",
+      "login_generated": "ErmolaevEA",
+      "variant": 3
+    },
+    {
+      "full_name": "Жуков Григорий Михайлович",
+      "group": "ПРИ-О-25/1",
+      "login": "ZhukovGM",
+      "login_generated": "ZhukovGM",
+      "variant": 4
+    },
+    {
+      "full_name": "Карсаков Артем Валериевич",
+      "group": "ПРИ-О-25/1",
+      "login": "KarsakovAV",
+      "login_generated": "KarsakovAV",
+      "variant": 5
+    },
+    {
+      "full_name": "Кудряшов Александр Витальевич",
+      "group": "ПРИ-О-25/1",
+      "login": "KudryashovAV",
+      "login_generated": "KudryashovAV",
+      "variant": 6
+    },
+    {
+      "full_name": "Малюгин Иван Германович",
+      "group": "ПРИ-О-25/1",
+      "login": "MalyuginIG",
+      "login_generated": "MalyuginIG",
+      "variant": 7
+    },
+    {
+      "full_name": "Панфилов Антон Николаевич",
+      "group": "ПРИ-О-25/1",
+      "login": "PanfilovAN",
+      "login_generated": "PanfilovAN",
+      "variant": 8
+    },
+    {
+      "full_name": "Раменский Никита Максимович",
+      "group": "ПРИ-О-25/1",
+      "login": "RamenskiyNM",
+      "login_generated": "RamenskiyNM",
+      "variant": 9
+    },
+    {
+      "full_name": "Рукавишников Владимир Георгиевич",
+      "group": "ПРИ-О-25/1",
+      "login": "RukavishnikovVG",
+      "login_generated": "RukavishnikovVG",
+      "variant": 10
+    },
+    {
+      "full_name": "Тарасов Николай Юрьевич",
+      "group": "ПРИ-О-25/1",
+      "login": "TarasovNY",
+      "login_generated": "TarasovNY",
+      "variant": 11
+    },
+    {
+      "full_name": "Чанышева Сафия Салаватовна",
+      "group": "ПРИ-О-25/1",
+      "login": "ChanyshevaSS",
+      "login_generated": "ChanyshevaSS",
+      "variant": 12
+    },
+    {
+      "full_name": "Шамбасов Александр Валерьевич",
+      "group": "ПРИ-О-25/1",
+      "login": "ShambasovAV",
+      "login_generated": "ShambasovAV",
+      "variant": 13
+    },
+    {
+      "full_name": "Шишмарев Даниил Сергеевич",
+      "group": "ПРИ-О-25/1",
+      "login": "ShishmarevDS",
+      "login_generated": "ShishmarevDS",
+      "variant": 14
+    }
+  ]
+}
